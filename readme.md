@@ -10,4 +10,4 @@ The letter includes five pieces of evidence:
 
 The repository includes the code used to generate the results, but it does not include the raw data, as it comes from non-public proprietary sources. Nonetheless, we provide information on how to get the data, so that anyone with the right access can replicate the results. 
 
-For any questions about the code or the data, please send an email to [Coinbase Policy](mailto:Policy@coinbase.com)
+For any questions about the code or the data, please send an email to [Coinbase Policy](mailto:publicpolicy@coinbase.com)
