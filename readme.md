@@ -4,7 +4,7 @@ The letter includes five pieces of evidence:
 
 1. [Lorenz Curve](Lorenz_Curve/) of Ownership Concentration of BTC and ETH on the Coinbase platform. (Figure 1)
 2. [Comparison of Trading Volume/Bid ask spread](Trading_Volume_and_BA_Spread/) and Market Cap of BTC and ETH vs S&P500 constituents. (Figures 2 and 3)
-3. Comparison of Spot ETH prices between Coinbase and Kraken/Bitstamp/Gemini. (Figure 4)
+3. [Comparison of Spot ETH prices](spot_eth_comparison/) between Coinbase and Kraken/Bitstamp/Gemini. (Figure 4)
 4. Correlation between CME futures and Coinbase Spot time series BTC and ETH returns. (Table 1 and Figure 5)
 5. Tracking error of non-US ETH ETF relative to the spot Coinbase local ETH price. (Figure 6)
 
