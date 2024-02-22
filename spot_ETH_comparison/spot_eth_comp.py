@@ -1,5 +1,5 @@
 ##############################################################################################
-# Trading Volume and BA spread BTC/ETH vs S&P500 Constituents.  
+# Spot ETH prices across exchanges 
 # Feb 2024
 # Coinbase Policy
 # Coinbase Response Letter to the Grayscale ETH ETF Application
